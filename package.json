@@ -1,0 +1,26 @@
+{
+  "name": "v14-ban-bot",
+  "version": "1.0.0",
+  "description": "It is an advanced server kill bot made by K4H1N.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "ban-bot",
+    "bot",
+    "k4h1n",
+    "discord",
+    "bot",
+    "kill"
+  ],
+  "author": "K4H1N#1969 (ID: 673210759274299413)",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^0.4.1",
+    "discord.js": "^14.0.1",
+    "inflames.db": "^4.1.1",
+    "moment": "^2.29.4",
+    "ms": "^2.1.3"
+  }
+}
