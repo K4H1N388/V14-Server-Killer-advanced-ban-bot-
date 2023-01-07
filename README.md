@@ -14,7 +14,6 @@ After the modules are installed, fill the file named "settings.json".
 
 After filling the "settings.json" file, type the following code in the console.
 
-Sqlite için:
 ```shell
 node .
 ```
