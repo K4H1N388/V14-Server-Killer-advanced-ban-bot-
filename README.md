@@ -20,11 +20,11 @@ node .
 
 ## Features
 
-Dm message to all members
-Delete all roles and channels
-Create new channels and roles
-Spamming all channels
-Ban all members
+Dm message to all members <br>
+Delete all roles and channels <br>
+Create new channels and roles <br>
+Spamming all channels <br>
+Ban all members <br>
 
 ## Advanced Settings
 
