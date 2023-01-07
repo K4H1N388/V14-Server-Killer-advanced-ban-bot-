@@ -2,7 +2,7 @@
 
 The bot is an open source server killer bot.
 
-## Kurulum
+## Install
 
 After downloading the files, enter the following code in the console.
 
