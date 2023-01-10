@@ -10,9 +10,9 @@ After downloading the files, enter the following code in the console.
 > npm i
 ```
 
-After the modules are installed, fill the file named "settings.json".
+After the modules are installed, fill the file named ```settings.json```.
 
-After filling the "settings.json" file, type the following code in the console.
+After filling the ```settings.json``` file, type the following code in the console.
 
 ```shell
 node .
@@ -28,11 +28,11 @@ Ban all members <br>
 
 ## Advanced Settings
 
-There is a settings panel in the "settings.json" file where you can turn on and off all the features of the bot.
+There is a settings panel in the ```settings.json``` file where you can turn on and off all the features of the bot.
 
 ## Support
 
-If you need help, you can visit our [support server](https://discord.gg/fFkefBMRtC).
+If you need help, you can visit our ```[support server](https://discord.gg/fFkefBMRtC)```.
 
 ## Legal Information
 
