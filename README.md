@@ -32,7 +32,7 @@ There is a settings panel in the ```settings.json``` file where you can turn on 
 
 ## Support
 
-If you need help, you can visit our ```[support server](https://discord.gg/fFkefBMRtC)```.
+If you need help, you can visit our [support server](https://discord.gg/fFkefBMRtC).
 
 ## Legal Information
 
